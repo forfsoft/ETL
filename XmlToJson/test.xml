@@ -1,0 +1,10 @@
+<Root>
+    <!-- comment test1-->
+    <record id="1" name="data1"/>
+    <!-- comment test2-->
+    <record id="2" name="data2"/>
+    <group name="group">
+    <!-- comment tes3-->
+        <record id="3" name="data3"/>
+    </group>
+</Root>
